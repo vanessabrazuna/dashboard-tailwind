@@ -12,6 +12,10 @@ export function Control(props: ControlProps) {
     if (!event.target.files?.length) {
       return
     }
+
+    const files = Array.from(event.target.files)
+
+    onFilesSelected(files)
   }
 
   return (
