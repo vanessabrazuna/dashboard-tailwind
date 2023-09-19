@@ -1,5 +1,5 @@
 <h1 align="center">
-    DASHBOARD TAILWIND CSS
+    Dashboard with TailwindCSS
 </h1>
 
 # Index
@@ -7,6 +7,7 @@
 - [About](#-about)
 - [Technologies Used](#-technologies-used)
 - [How to download the project](#-how-to-download-the-project)
+
 
 ## 🔖&nbsp; About
 
