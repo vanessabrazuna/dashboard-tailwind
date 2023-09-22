@@ -16,7 +16,10 @@ export function Profile() {
           teste.teste@gmail.com
         </span>
       </div>
-      <button type="button" className="ml-auto rounded-md p-2 hover:bg-zinc-50">
+      <button
+        type="button"
+        className="ml-auto rounded-md p-2 hover:bg-zinc-50 outline-none focus-within:border-violet-300 focus-within:ring-4 focus-within:ring-violet-100"
+      >
         <LogOut className="w-5 h-5 text-zinc-500" />
       </button>
     </div>

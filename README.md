@@ -25,7 +25,7 @@ The project was developed using the following technologies
 - [Radix UI](https://www.radix-ui.com/primitives)
 - [Framer Motion](https://www.framer.com/motion/)
 - [Lucide](https://lucide.dev)
-- [ ](https://)
+- [AutoAnimate](https://auto-animate.formkit.com)
 
 ---
 
