@@ -22,10 +22,11 @@ The project was developed using the following technologies
 - [NextJS](https://nextjs.org)
 - [TypeScript](https://www.typescriptlang.org)
 - [Tailwindcss](https://tailwindcss.com)
+- [Tailwind Variants](https://www.tailwind-variants.org)
 - [Radix UI](https://www.radix-ui.com/primitives)
 - [Framer Motion](https://www.framer.com/motion/)
-- [Lucide](https://lucide.dev)
 - [AutoAnimate](https://auto-animate.formkit.com)
+- [Lucide](https://lucide.dev)
 
 ---
 

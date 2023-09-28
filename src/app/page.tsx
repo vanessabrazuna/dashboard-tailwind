@@ -2,6 +2,7 @@ import { SettingsTabs } from '@/components/SettingsTabs'
 import { Select } from '@/components/Form/Select'
 import { Textarea } from '@/components/Form/Textarea'
 import { SelectItem } from '@/components/Form/Select/SelectItem'
+import { Button } from '@/components/Button'
 
 import * as Input from '@/components/Input'
 import * as FileInput from '@/components/Form/FileInput'
@@ -24,19 +25,12 @@ export default function Home() {
             </span>
           </div>
           <div className="flex items-center gap-2">
-            <button
-              type="button"
-              className="rounded-lg px-4 py-2 text-sm font-semibold shadow-sm border border-zinc-300 text-zinc-700 hover:bg-zinc-50 outline-none focus-within:border-violet-300 focus-within:ring-4 focus-within:ring-violet-100"
-            >
+            <Button variant="outline" type="button">
               Cancel
-            </button>
-            <button
-              type="submit"
-              form="settings"
-              className="rounded-lg px-4 py-2 text-sm font-semibold shadow-sm text-white bg-violet-600 hover:bg-violet-700 outline-none focus-within:border-violet-300 focus-within:ring-4 focus-within:ring-violet-100"
-            >
+            </Button>
+            <Button variant="primary" type="submit" form="settings">
               Save
-            </button>
+            </Button>
           </div>
         </div>
 
@@ -155,39 +149,24 @@ export default function Home() {
                 </Select>
 
                 <div className="flex items-center gap-1">
-                  <button
-                    type="button"
-                    className="rounded-md p-2 hover:bg-zinc-50 outline-none focus-within:border-violet-300 focus-within:ring-4 focus-within:ring-violet-100"
-                  >
+                  <Button type="button" variant="ghost">
                     <Bold className="h-4 w-4 text-zinc-500" strokeWidth={3} />
-                  </button>
-                  <button
-                    type="button"
-                    className="rounded-md p-2 hover:bg-zinc-50 outline-none focus-within:border-violet-300 focus-within:ring-4 focus-within:ring-violet-100"
-                  >
+                  </Button>
+                  <Button type="button" variant="ghost">
                     <Italic className="h-4 w-4 text-zinc-500" strokeWidth={3} />
-                  </button>
-                  <button
-                    type="button"
-                    className="rounded-md p-2 hover:bg-zinc-50 outline-none focus-within:border-violet-300 focus-within:ring-4 focus-within:ring-violet-100"
-                  >
+                  </Button>
+                  <Button type="button" variant="ghost">
                     <Link className="h-4 w-4 text-zinc-500" strokeWidth={3} />
-                  </button>
-                  <button
-                    type="button"
-                    className="rounded-md p-2 hover:bg-zinc-50 outline-none focus-within:border-violet-300 focus-within:ring-4 focus-within:ring-violet-100"
-                  >
+                  </Button>
+                  <Button type="button" variant="ghost">
                     <List className="h-4 w-4 text-zinc-500" strokeWidth={3} />
-                  </button>
-                  <button
-                    type="button"
-                    className="rounded-md p-2 hover:bg-zinc-50 outline-none focus-within:border-violet-300 focus-within:ring-4 focus-within:ring-violet-100"
-                  >
+                  </Button>
+                  <Button type="button" variant="ghost">
                     <ListOrdered
                       className="h-4 w-4 text-zinc-500"
                       strokeWidth={3}
                     />
-                  </button>
+                  </Button>
                 </div>
               </div>
 
@@ -216,18 +195,12 @@ export default function Home() {
           </div>
 
           <div className="flex items-center justify-end gap-2 pt-5">
-            <button
-              type="button"
-              className="rounded-lg px-4 py-2 text-sm font-semibold shadow-sm border border-zinc-300 text-zinc-700 hover:bg-zinc-50 outline-none focus-within:border-violet-300 focus-within:ring-4 focus-within:ring-violet-100"
-            >
+            <Button variant="outline" type="button">
               Cancel
-            </button>
-            <button
-              type="submit"
-              className="rounded-lg px-4 py-2 text-sm font-semibold shadow-sm text-white bg-violet-600 hover:bg-violet-700 outline-none focus-within:border-violet-300 focus-within:ring-4 focus-within:ring-violet-100"
-            >
+            </Button>
+            <Button variant="primary" type="submit" form="settings">
               Save
-            </button>
+            </Button>
           </div>
         </form>
       </div>
