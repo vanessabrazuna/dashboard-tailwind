@@ -1,5 +1,5 @@
 <h1 align="center">
-    Dashboard with TailwindCSS
+    Dashboard UI
 </h1>
 
 # Index
@@ -23,6 +23,7 @@ The project was developed using the following technologies
 - [TypeScript](https://www.typescriptlang.org)
 - [Tailwindcss](https://tailwindcss.com)
 - [Tailwind Variants](https://www.tailwind-variants.org)
+- [Tailwind Merge](https://www.npmjs.com/package/tailwind-merge)
 - [Radix UI](https://www.radix-ui.com/primitives)
 - [Framer Motion](https://www.framer.com/motion/)
 - [AutoAnimate](https://auto-animate.formkit.com)
