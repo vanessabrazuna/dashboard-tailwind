@@ -36,10 +36,10 @@ The project was developed using the following technologies
 ```bash
 
     # Clone the repository
-    $ git clone https://github.com/vanessabrazuna/dashboard-tailwind
+    $ git clone https://github.com/vanessabrazuna/dashboard-ui
 
     # Enter directory
-    $ cd dashboard-tailwind
+    $ cd dashboard-ui
 
     # Install the dependencies
     $ pnpm install
