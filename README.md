@@ -28,6 +28,7 @@ The project was developed using the following technologies
 - [Framer Motion](https://www.framer.com/motion/)
 - [AutoAnimate](https://auto-animate.formkit.com)
 - [Lucide](https://lucide.dev)
+- [React Flags](https://www.npmjs.com/package/react-world-flags)
 
 ---
 
