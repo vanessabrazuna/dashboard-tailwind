@@ -2,6 +2,10 @@
     Dashboard UI
 </h1>
 
+<p align="center">
+  <img alt="Dashboard UI" src="https://gist.github.com/assets/73675022/64bfbd93-344c-458b-8a14-a39b5b44478e" width="100%">
+</p>
+
 # Index
 
 - [About](#-about)
