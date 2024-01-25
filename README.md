@@ -1,10 +1,4 @@
-<h1 align="center">
-    Dashboard UI
-</h1>
-
-<h1 align="center">
-    <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/73675022/294182057-d0c9829a-d104-4561-9b35-6eb01c3cbed7.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240104%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240104T124507Z&X-Amz-Expires=300&X-Amz-Signature=7aa90dff935424e70b3a0b4a99c5c449df79b566cb2bb30102bbdf0b1535fdba&X-Amz-SignedHeaders=host&actor_id=0&key_id=0&repo_id=0" alt="Dashboard UI" width: "100%" />
-</h1>
+<h1 align="center">Dashboard UI</h1>
 
 # Index
 
