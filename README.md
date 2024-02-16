@@ -1,6 +1,6 @@
 <h1 align="center">Dashboard UI</h1>
 
-<a align="center">![Dashboard UI (Community)](https://i.imgur.com/a/rLChws8.png)</a>
+<a align="center">![Dashboard UI (Community)](https://i.imgur.com/PxoSUrT.png)</a>
 
 
 # Index
