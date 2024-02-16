@@ -1,5 +1,10 @@
 <h1 align="center">Dashboard UI</h1>
 
+<p align="center">
+  <img alt="PizzaShop" src="https://imgur.com/a/rLChws8.png" width="100%">
+</p>
+
+
 # Index
 
 - [About](#-about)
