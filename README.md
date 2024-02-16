@@ -1,8 +1,8 @@
 <h1 align="center">Dashboard UI</h1>
 
-<p align="center">
-  <img alt="PizzaShop" src="https://imgur.com/a/rLChws8.png" width="100%">
-</p>
+<a align="center">![Dashboard UI (Community)](https://imgur.com/a/rLChws8.png)</a>
+
+// https://i.imgur.com/g5d70Ir.png
 
 
 # Index
